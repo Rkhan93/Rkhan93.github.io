@@ -1,6 +1,6 @@
 # Rkhan93.github.io
 
-<!DOCTYPE html>
+
 <html>
 <head>
      <title>DocumentStudent Bio</title>
