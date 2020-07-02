@@ -16,9 +16,10 @@
 
     <h2>Contact Info</h2>
     <ul>
-        <li><strong>Email</strong>:<a href="mailto:ridgekhan23@gmail.com"></a> </li>
-        <li><strong>GitHub</strong>: <a target="_blank" href="https//github.com"></a></li>
-        <li><strong>Portforlio</strong>: </li>
+        <li><strong>Email:</strong> <a href="#">someplace@gmail.com</a></li>
+        <li><strong>Github:</strong> <a href="#">sampleName</a></li>
+        <li><strong>Portfolio:</strong> <a href="#">coming soon</a></li>
+
     </ul>
 
 
